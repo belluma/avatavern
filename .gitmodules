@@ -1,0 +1,3 @@
+[submodule "avatavern-frontend"]
+	path = avatavern-frontend
+	url = git@github.com:romsenkabomsen/avatavern-frontend
